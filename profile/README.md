@@ -15,4 +15,4 @@ We source small-batch lots — sealed and imported in limited quantities — fro
 
 ---
 
-[lightmist.coffee](https://lightmist.coffee) · [Instagram](https://instagram.com/lightmist.coffee) · [Discord](https://lightmist.com/discord)
+<a href="https://lightmist.coffee"><img src="icons/web.svg" alt="Web" height="16">&nbsp;lightmist.coffee</a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/lightmist.coffee"><img src="icons/instagram.svg" alt="Instagram" height="16">&nbsp;Instagram</a>&nbsp;&nbsp;&nbsp;<a href="https://lightmist.com/discord"><img src="icons/discord.svg" alt="Discord" height="16">&nbsp;Discord</a>
