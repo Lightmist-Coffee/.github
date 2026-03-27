@@ -15,4 +15,4 @@ We source small-batch lots — sealed and imported in limited quantities — fro
 
 ---
 
-<a href="https://lightmist.coffee"><img src="icons/web.svg#gh-light-mode-only" alt="Web" height="16"><img src="icons/web-dark.svg#gh-dark-mode-only" alt="Web" height="16">&nbsp;lightmist.coffee</a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/lightmist.coffee"><img src="icons/instagram.svg#gh-light-mode-only" alt="Instagram" height="16"><img src="icons/instagram-dark.svg#gh-dark-mode-only" alt="Instagram" height="16">&nbsp;Instagram</a>&nbsp;&nbsp;&nbsp;<a href="https://lightmist.com/discord"><img src="icons/discord.svg#gh-light-mode-only" alt="Discord" height="16"><img src="icons/discord-dark.svg#gh-dark-mode-only" alt="Discord" height="16">&nbsp;Discord</a>
+<a href="https://lightmist.coffee"><img src="icons/web.svg" alt="Web" height="16">&nbsp;lightmist.coffee</a>&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/lightmist.coffee"><img src="icons/instagram.svg" alt="Instagram" height="16">&nbsp;Instagram</a>&nbsp;&nbsp;&nbsp;<a href="https://lightmist.com/discord"><img src="icons/discord.svg" alt="Discord" height="16">&nbsp;Discord</a>
